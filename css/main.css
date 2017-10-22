@@ -1,30 +1,30 @@
-
+/*Creando contenedor ancho y alto de caja principal*/
 #contenedor {
   width: 700px;
   height: 500px;
 }
-
+/*colocando color y tipo de letra al titulo*/
 h2 {
   padding-left: 7px;
   color: 	#808080	;
   font-family: 'Lora', serif;
 }
-
+/*colocando ancho de imagen*/
 img {
   max-width: 90%;
   }
-
+/*posicionando imagen y colocando ancho de contenedor de imagenes*/
 .imagen {
     float: left;
     padding-left: 20px;
     width: 200px;
     position: relative;
 }
-
+/*colocando color al parrafo*/
 p{
   color: white;
 }
-
+/*colocando el parrafo sobre la imagen*/
 .imagen>p {
   position: relative;
   bottom: 50px;
