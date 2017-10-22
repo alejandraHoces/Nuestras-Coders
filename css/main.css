@@ -1,0 +1,32 @@
+
+#contenedor {
+  width: 700px;
+  height: 500px;
+}
+
+h2 {
+  padding-left: 7px;
+  color: 	#808080	;
+  font-family: 'Lora', serif;
+}
+
+img {
+  max-width: 90%;
+  }
+
+.imagen {
+    float: left;
+    padding-left: 20px;
+    width: 200px;
+    position: relative;
+}
+
+p{
+  color: white;
+}
+
+.imagen>p {
+  position: relative;
+  bottom: 50px;
+  left: 60px;
+}
