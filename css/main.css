@@ -12,6 +12,7 @@ h2 {
 /*colocando ancho de imagen*/
 img {
   max-width: 90%;
+  opacity: 0.7;
   }
 /*posicionando imagen y colocando ancho de contenedor de imagenes*/
 .imagen {
